@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Kentaro
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning ...
+- 🌱 My research relates to LLM, multi-modal artificial intelligence and prompt engineering recently.
 - 💞️ I’m looking to collaborate on Interpretable Machine Learning
